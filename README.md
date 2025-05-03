@@ -27,6 +27,7 @@ challenge1-data-science-latam/
 ├── 3.Tienda3.csv
 ├── 4.Tienda4.csv
 ├── Challenge_AluraStoreX.ipynb
+├── Challenge_AluraStoreX.py
 └── README.md
 ```
 
@@ -73,7 +74,7 @@ A continuación se muestran ejemplos típicos que genera el script:
 3. Ejecutar el script con:
 
 ```bash
-python analisis_ventas.py
+python Challenge_AluraStoreX.py
 ```
 
 El script procesará los archivos, mostrará resultados por tienda y luego una comparativa general.
