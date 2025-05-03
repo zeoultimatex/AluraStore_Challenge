@@ -22,16 +22,16 @@ Con estos datos, se busca ofrecer una ayuda a la toma de decisiones para optimiz
 
 ```
 challenge1-data-science-latam/
-├── 1.csv
-├── 2.csv
-├── 3.csv
-├── 4.csv
-├── analisis_ventas.py
+├── 1.Tienda1.csv
+├── 2.Tienda2.csv
+├── 3.Tienda3.csv
+├── 4.Tienda4.csv
+├── Challenge_AluraStoreX.ipynb
 └── README.md
 ```
 
-- `1.csv` a `4.csv`: Archivos CSV con los datos de cada tienda.
-- `analisis_ventas.py`: Script de Python que procesa los datos y muestra los resultados por tienda.
+- Archivos CSV con los datos de cada tienda.
+- Archivo Python que procesa los datos y muestra los resultados por tienda.
 - `README.md`: Este archivo de documentación.
 
 ---
@@ -69,7 +69,7 @@ A continuación se muestran ejemplos típicos que genera el script:
 ### 💻 Pasos
 
 1. Clonar o descargar el proyecto.
-2. Tener los archivos `1.csv`, `2.csv`, `3.csv` y `4.csv` en la misma carpeta que el script.
+2. Tener los archivos CSV en la misma carpeta que el script.
 3. Ejecutar el script con:
 
 ```bash
