@@ -37,7 +37,7 @@ challenge1-data-science-latam/
 
 ---
 
-## 📊 Ejemplos de insights obtenidos
+## 📊 Ejemplos de perspectivas obtenidas
 
 A continuación se muestran ejemplos típicos que genera el script:
 
