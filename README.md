@@ -1,4 +1,4 @@
-# AluraStore_Challenge
+# AluraStore Challenge
 
 # 🛒 Análisis de Ventas por Tienda
 
